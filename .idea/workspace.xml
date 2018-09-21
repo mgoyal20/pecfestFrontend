@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ffcc3b-4670-45dd-aec2-6170b2cd894e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevelopersPage/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/images/harman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/images/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/images/mitesh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/images/prince.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/members.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevelopersPage/members.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hospi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,11 +31,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="members.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="members.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DevelopersPage/members.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            <state relative-caret-position="114">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="8816" column="29" lean-forward="true" selection-start-line="8816" selection-start-column="29" selection-end-line="8816" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -119,6 +134,7 @@
       <find>please enter</find>
       <find>#777</find>
       <find>mime</find>
+      <find>mime</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,6 +172,8 @@
         <option value="$PROJECT_DIR$/src/DevelopersPage/App.css" />
         <option value="$PROJECT_DIR$/yarn.lock" />
         <option value="$PROJECT_DIR$/src/DevelopersPage/members.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -247,18 +265,18 @@
       <updated>1537468549748</updated>
       <workItem from="1537468552545" duration="6164000" />
       <workItem from="1537520885723" duration="13570000" />
-      <workItem from="1537550102147" duration="2589000" />
+      <workItem from="1537550102147" duration="3030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22323000" />
+    <option name="totallyTimeSpent" value="22764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14210178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14210178" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -267,7 +285,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23931624" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4002849" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -285,15 +303,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/napp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1330">
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sponsors.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2401" />
@@ -544,9 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NavigationButton.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -655,8 +661,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DevelopersPage/members.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="114">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="8816" column="29" lean-forward="true" selection-start-line="8816" selection-start-column="29" selection-end-line="8816" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
