@@ -8,9 +8,9 @@ class ComingSoon extends Component {
 
 	render() {
 		return (
-			<div className="ComingSoon" style={{ padding: '1em', margin: '1em', textAlign: 'center', verticalAlign: 'middle' }}>
-				<p>Coming Soon.</p>
-				<a onClick={this.handleClick} href="#">Return to previous page</a>
+			<div className="ComingSoon" style={{ padding: '2em', textAlign: 'center', verticalAlign: 'middle', color: 'white', fontSize: '2rem' }}>
+				<p style={{backgroundColor: '#000032'}}>Coming Soon.</p>
+				<a onClick={this.handleClick} href="#" style={{backgroundColor: '#000032'}}>Return to previous page</a>
 			</div>
 		)
 	}

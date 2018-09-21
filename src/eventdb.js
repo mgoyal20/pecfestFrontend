@@ -59,7 +59,7 @@ function preprocessEvent(event) {
 }
 
 window._api = {
-  url: process.env.NODE_ENV === 'development' ? 'http://localhost/v1/' : 'http://api.pecfest.in/v1/',
+  url: process.env.NODE_ENV === 'development' ? 'http://127.0.0.1:8080/v1/' : 'http://api.pecfest.in/v1/',
   getEventsForCategory(category, config) {
     const events = [];
 

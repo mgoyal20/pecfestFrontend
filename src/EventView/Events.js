@@ -87,7 +87,7 @@ export default class Events extends Component {
 			<div className="White-background-wrapper">
 			<div className="Events-wrapper wrapper">
 				<div className="Events-heading">
-					<small>Showing <span style={{color: 'black', fontWeight: '700'}}>
+					<small>Showing <span style={{color: 'white', fontWeight: '900'}}>
 						{this.props.match.params.activityId}
 					</span> events</small>
 				</div>

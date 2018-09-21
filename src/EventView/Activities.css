@@ -19,13 +19,13 @@
 }
 
 .Activity-wrapper:nth-child(even) {
-	background-color: #E6FFE0;
-	color: #196070;
+	background-color: tomato;
+	color: black;
 }
 
 .Activity-wrapper:nth-child(odd) {
-	background-color: #196070;
-	color: #E6FFE0;
+	background-color: gold;
+	color: black;
 }
 
 .Activity {

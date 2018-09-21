@@ -1,19 +1,24 @@
-.White-background-wrapper {
-	background-color: white;
-	width: 100%;
-}
+/*.White-background-wrapper {*/
+	/*background-color: white;*/
+	/*width: 100%;*/
+/*}*/
 
 .Events-wrapper {
 	display: block;
 	max-width: 768px;
 	margin: 0 auto 1em auto;
 	padding-top: 5em;
-	background-color: white;
+	/*background-color: white;*/
 	color: #222122;
 }
 
 .Events-heading {
 	margin-bottom: 12px;
+}
+
+.Events-heading small {
+	color: white;
+	background-color: #000032;
 }
 
 .Events {

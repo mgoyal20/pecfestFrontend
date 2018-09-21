@@ -245,7 +245,7 @@ class FinalStep extends Component {
 		return (
 			<div className="FinalStep">
 				<p className="SignUpForm-description">
-					Your PECFEST ID is <span className="pecfestId">{this.props.pecfestId}</span>
+					Your PECFEST ID is <span className="pecfestId" style={{color: 'White', fontSize: '2em'}}>{this.props.pecfestId}</span>
 					<br />
 					Now you can login and start registering for events.
 				</p>
@@ -362,7 +362,7 @@ class SignUpSteps extends Component {
 		if (this.state.submitting) {
 			return (
 				<div className="SignUpForm-submitting">
-					<p className="SignUpForm-otp-message">{this.state.submitMessage}</p>
+					<p className="SignUpForm-otp-message" style={{color: 'white'}}>{this.state.submitMessage}</p>
 				</div>
 			);
 		}

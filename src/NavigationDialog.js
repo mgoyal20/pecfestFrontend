@@ -133,7 +133,7 @@ class NavigationDialog extends Component {
 				{
 					value => {
 						if (typeof this.props.onTransition !== 'undefined') {
-							this._content.style.transform = `scale(${1 - value.y / 1000})`;
+							// this._content.style.transform = `scale(${1 - value.y / 1000})`;
 							this._content.style.opacity = 1 - value.y / 100;
 						}
 						return (

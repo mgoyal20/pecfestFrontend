@@ -63,7 +63,7 @@ class SignUpOrLoginForm extends Component {
         </div>
         <div className="Divider" />
         {
-          this.state.loggedIn ? <h1 style={{ }}>You are logged in as <strong>{this.state.pecfestId}</strong></h1> :
+          this.state.loggedIn ? <h1 style={{color: 'white'}}>You are logged in as <strong>{this.state.pecfestId}</strong></h1> :
             <div className="SignUpOrLoginForm-form">
             {
               this.state.form == 'signup' ?

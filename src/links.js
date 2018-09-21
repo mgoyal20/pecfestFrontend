@@ -22,14 +22,13 @@ const links = [
 	 	to: '/team',
 	 },
 	{
-		name: 'PECFEST 2016',
-		to: '/pecfest2016',
+		name: 'PECFEST 2017',
+		to: '/pecfest2017',
 	},
-	{
-		name: 'Marketing Brochure',
-		to: '/assets/marketingBrochure.pdf',
-		type: 'external'
-	},
+	// {
+	// 	name: 'Marketing Brochure',
+	// 	to: '/brochure',
+	// },
 	{
 		name: 'Social',
 		to: '/social'
@@ -38,7 +37,6 @@ const links = [
 		name: 'Hospitality',
 		to: '/hospitality'
 	}
-
 ]
 
 export default links;

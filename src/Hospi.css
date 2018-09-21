@@ -5,11 +5,11 @@
 
 .Hospi-heading {
   padding: 1em;
-  background-color: #196070;
+  background-color: gold;
 }
 
 .Hospi-heading > h1 {
-  color: #e6ffe0;
+  color: black;
 margin: 0;
 }
 
@@ -18,7 +18,7 @@ margin: 0;
  */
 .tabPanel-widget {
   position: relative;  /* containing block for headings (top:0) */
-  background: #e5ffe0;
+  background: #000032;
 }
 
 /**
@@ -51,7 +51,7 @@ margin: 0;
   position: relative;
   margin: 0;
   text-align: center;
-  color: #196070;
+  color: tomato;
 }
 
 .tabPanel-widget > label {
@@ -125,8 +125,10 @@ margin: 0;
 }
 
 .tabPanel-widget > div {
-  background: white;
+  background: #000032;
   padding: 1em;
+  color: white;
+  text-align: justify;
 }
 
 /**

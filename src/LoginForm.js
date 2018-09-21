@@ -34,7 +34,7 @@ class ForgotIDForm extends Component {
 		return (
 			<form className="SignUpForm" onSubmit={this.handleSubmit}>
 				<div className="SignUpElement">
-					<p>Please enter your registered email ID.</p>
+					<p style={{color: 'tomato'}}>Please enter your registered email ID.</p>
 					<div className="StatusMessage">
 						{this.state.status}
 					</div>

@@ -8,8 +8,8 @@
 	padding: 1em;
 }
 
-.SignUpForm-title {
-	color: gray;
+.SignUpForm-title h1{
+	color: gold;
 }
 
 input.SignUpInput {
@@ -21,6 +21,7 @@ input.SignUpInput {
 	margin-bottom: 1em;
 	font-family: inherit;
 	font-weight: 700;
+	color: white;
 }
 
 input.SignUpInput:focus {
@@ -47,7 +48,7 @@ input.SignUpInput::placeholder {
 	font-family: inherit;
 	font-size: 2em;
 	font-weight: 700;
-	color: gray;
+	color: gold;
 	padding: 0;
 	display: block;
 }
@@ -65,4 +66,8 @@ input.SignUpInput::placeholder {
 
 .pecfestId {
 	color: black;
+}
+
+.SignUpElement-description {
+	color: tomato;
 }

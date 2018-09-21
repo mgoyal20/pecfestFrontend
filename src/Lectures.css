@@ -48,7 +48,7 @@ article.Lecture > span {
 	padding: 1em;
 	display: flex;
 	flex-direction: column;
-	background-color: #196070;
+	background-color: #000032;
 	color: rgba(255, 255, 255, 0.7);
 	overflow: auto;
 }
@@ -70,16 +70,16 @@ article.Lecture > span {
 .Lecture-name {
 	margin-bottom: 0;
 	font-size: 2em;
-	color: rgba(255, 255, 255, 0.9);
+	color: gold;
 }
 
 .Lecture-lecturer {
 	margin-top: 0;
-	color: rgba(255, 255, 255, 0.4);
+	color: white;
 }
 
 .Lecture-lecturerName {
-	color: rgba(255, 255, 255, 0.7);
+	color: tomato;
 }
 
 .Lecture-description {
@@ -116,7 +116,7 @@ article.Lecture > span {
 }
 .Lectures-button {
 	padding: 0.5em;
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(255, 255, 255, 0.8);
 }
 
 @media screen and (max-width: 800px) {

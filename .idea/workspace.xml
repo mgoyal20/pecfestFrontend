@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ffcc3b-4670-45dd-aec2-6170b2cd894e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/lectures/lecture2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/lectures/lecture3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/lectures/lecture4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/lectures/previews/sankalp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/lectures/previews/vivek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/lectures/previews/yahya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Aarushi_Gupta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Aayush_Parasher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Aneet_Saini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Anreet_Singh_Bhamra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Ashish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Ayush_Anand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Dil_Raaj_Singh_Mand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Dipanshu_Agarwal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Eshaan_Sharma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Hansin_Garg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/IMG_2957.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Jasraj_Sandhu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Kanish_Bajaj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Lakshay_Piplani.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Mitesh_Kakkar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Pushkar_Bansal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Rupal_Verma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Simran_Katyal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Swanya_Singh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/Tejwinder_S_Chauhan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/japman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/lakshay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/mayank_mittal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/pallabh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/parv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team/utsav_dahiya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackgroundCanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackgroundCanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComingSoon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComingSoon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Event.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Event.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Event.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EventView/Activities.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/EventView/Activities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EventView/Events.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/EventView/Events.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EventView/Events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/EventView/Events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EventView/ShortEvent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/EventView/ShortEvent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrontSlide.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontSlide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrontSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hospi.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hospi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MegaShows/megashows_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MegaShows/megashows_list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavigationButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavigationButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavigationDialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavigationDialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavigationDialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavigationDialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PECFEST.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PECFEST.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PECFEST.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PECFEST.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PecFest2016.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PecFest2016.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PecFest2016.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PecFest2016.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpOrLogInForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpOrLogInForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpOrLoginForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpOrLoginForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sponsors.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sponsors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eventdb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/eventdb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Change Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Comio-Smartphone logo White.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/DST Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Enquero-Logo-750width-RGB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/GBP_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/MOTHER LOGO.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Muscleblaze.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Ralco Logo New 2017 (Ride with Trust).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/WWC logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/artha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/comedy central(1).PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/comio_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dakua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gsp logo Size 12 x 12 inch new.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gsp_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/imin.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/monte_carlo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/monte_carlo_old (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/monte_carlo_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/ninja.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/oyo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/oyo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/playstore.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/playstore.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/verka- diary partner.cdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/verka- diary partner.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/waiwai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/links.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/napp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/napp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sponsors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sponsors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Aarushi_Gupta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Aneet_Saini.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Anreet_Singh_Bhamra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Ashish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Ayush_Anand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Dil_Raaj_Singh_Mand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Dipanshu_Agarwal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Eshaan_Sharma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Hansin_Garg.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/IMG_2957.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/IMG_8810.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Jasraj_Sandhu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Kanish_Bajaj.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Lakshay_Piplani.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Mitesh_Kakkar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Pushkar_Bansal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Rupal_Verma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Simran_Katyal.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Swanya_Singh.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/Tejwinder_S_Chauhan.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/pallabh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/youwecan_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/youwecan_css.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NavigationDialog.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NavigationDialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="847">
+              <caret line="135" column="94" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PECFEST.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationButton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NavigationButton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="60" selection-start-line="60" selection-end-line="61" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="images.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Hospi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hospi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="9" lean-forward="true" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationDialog.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NavigationDialog.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignUpOrLoginForm.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SignUpOrLoginForm.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoginForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComingSoon.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ComingSoon.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignUpOrLogInForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SignUpOrLogInForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrontSlide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FrontSlide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="141" column="34" lean-forward="true" selection-start-line="141" selection-start-column="34" selection-end-line="141" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>colors</find>
+      <find>SignUpElement</find>
+      <find>NextButton</find>
+      <find>Activity</find>
+      <find>White-bac</find>
+      <find>card-title</find>
+      <find>event_prize</find>
+      <find>register_butto</find>
+      <find>event_desc</find>
+      <find>Events-heading</find>
+      <find>body.style</find>
+      <find>Coming So</find>
+      <find>ComingSoon</find>
+      <find>./links</find>
+      <find>details</find>
+      <find>verifying Account</find>
+      <find>submitMessage</find>
+      <find>you are logged in as</find>
+      <find>please enter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/eventdb.js" />
+        <option value="$PROJECT_DIR$/src/SignUpForm.css" />
+        <option value="$PROJECT_DIR$/src/EventView/Activities.css" />
+        <option value="$PROJECT_DIR$/src/EventView/ShortEvent.css" />
+        <option value="$PROJECT_DIR$/src/EventView/Events.css" />
+        <option value="$PROJECT_DIR$/src/EventView/Events.js" />
+        <option value="$PROJECT_DIR$/src/Event.js" />
+        <option value="$PROJECT_DIR$/src/Event.css" />
+        <option value="$PROJECT_DIR$/src/Brochure.css" />
+        <option value="$PROJECT_DIR$/src/Brochure.js" />
+        <option value="$PROJECT_DIR$/src/NavigationButton.js" />
+        <option value="$PROJECT_DIR$/src/NavigationDialog.js" />
+        <option value="$PROJECT_DIR$/src/ComingSoon.js" />
+        <option value="$PROJECT_DIR$/src/links.js" />
+        <option value="$PROJECT_DIR$/src/reg_button.css" />
+        <option value="$PROJECT_DIR$/src/Lectures.css" />
+        <option value="$PROJECT_DIR$/src/SignUpForm.js" />
+        <option value="$PROJECT_DIR$/src/SignUpOrLogInForm.js" />
+        <option value="$PROJECT_DIR$/src/SignUpOrLoginForm.css" />
+        <option value="$PROJECT_DIR$/src/LoginForm.js" />
+        <option value="$PROJECT_DIR$/src/FrontSlide.js" />
+        <option value="$PROJECT_DIR$/src/FrontSlide.css" />
+        <option value="$PROJECT_DIR$/src/Hospi.css" />
+        <option value="$PROJECT_DIR$/src/MegaShows/megashows_list.js" />
+        <option value="$PROJECT_DIR$/src/PECFEST.js" />
+        <option value="$PROJECT_DIR$/src/Hospi.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FormElements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MegaShows" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\Mayank's PC\Pecfest 2018\Website\frontend\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ffcc3b-4670-45dd-aec2-6170b2cd894e" name="Default" comment="" />
+      <created>1537468549748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537468549748</updated>
+      <workItem from="1537468552545" duration="6164000" />
+      <workItem from="1537520885723" duration="13570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14077991" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2820513" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/EventView/Activities.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/ShortEvent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="72" lean-forward="true" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#764#802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/Events.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/Events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="79" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youwecan_css.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpOrLogInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="25" lean-forward="true" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6885">
+          <caret line="405" column="41" selection-start-line="405" selection-start-column="41" selection-end-line="405" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/napp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1330">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sponsors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Begin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Background.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackgroundCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormElements/TextInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpForm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sponsors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eventdb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youwecan_css.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/Events.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/Events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="89" column="79" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/Activities.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="194" column="240" selection-start-line="194" selection-start-column="240" selection-end-line="194" selection-end-column="240" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ol#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Brochure.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Brochure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EventView/ShortEvent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2172">
+          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-868">
+          <caret line="3" column="214" selection-start-line="3" selection-start-column="214" selection-end-line="3" selection-end-column="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/links.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reg_button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lectures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="247" column="106" selection-start-line="247" selection-start-column="106" selection-end-line="247" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpOrLoginForm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontSlide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="166" column="37" lean-forward="true" selection-start-line="166" selection-start-column="37" selection-end-line="166" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lectures.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" column="1" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hospi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="130" column="21" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MegaShows/megashows_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignUpOrLogInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComingSoon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontSlide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="141" column="34" lean-forward="true" selection-start-line="141" selection-start-column="34" selection-end-line="141" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NavigationButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="60" selection-start-line="60" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hospi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="9" lean-forward="true" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NavigationDialog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NavigationDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="135" column="94" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

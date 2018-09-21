@@ -177,10 +177,10 @@ class Event extends Component {
       <div className="col container-fluid" id="event_desc">
         <div className="card darken-1" style={{boxShadow: 'none'}}>
             <div className="card-content " style={{paddingBottom: 10,paddingTop: 10}}>
-                <div className="row" style={{marginBottom: 0}}><span className="card-title"><h1 style={{marginTop:0}} id="event_name"><span style={{color:"#F0F0F0"}}>▆▆▆▆▆▆</span></h1>
+                <div className="row" style={{marginBottom: 0}}><span className="card-title"><h1 style={{marginTop:0, color:"tomato", backgroundColor:"#000032"}} id="event_name"><span style={{color:"#F0F0F0"}}>▆▆▆▆▆▆</span></h1>
                     </span>
                 </div>
-                <div className="row" style={{marginTop: '-1rem', marginBottom: '1rem'}}><span><h3 style={{marginTop:0}} id="event_info"><span style={{color:'#F0F0F0'}}>▆▆▆▆▆▆▆▆▆▆▆▆▆▆</span></h3>
+                <div className="row" style={{marginTop: '-1rem', marginBottom: '1rem'}}><span><h3 style={{marginTop:0, color:"white", backgroundColor:"#000032"}} id="event_info"><span style={{color:'#F0F0F0'}}>▆▆▆▆▆▆▆▆▆▆▆▆▆▆</span></h3>
                     </span>
                 </div>
                 <div id="event_prize_wrapper">
@@ -192,7 +192,7 @@ class Event extends Component {
                         <br />
                         <span style={{}} id="event_prize"><span style={{color:'#F0F0F0'}}>▆▆▆▆</span></span>
                     </div>
-                    <button className="eventPrize" disabled={this.state.registered || this.state.loading} onClick={this.handleClick} className="btn" style={{marginRight:0, marginLeft:'auto', display:'none'}} id="register_button">Register</button>
+                    <button className="eventPrize" disabled={this.state.registered || this.state.loading} onClick={this.handleClick} className="btn" style={{marginRight:0, marginLeft:'auto', display:'none', color:'#ff9800', fontWeight:'bold'}} id="register_button">Register</button>
                     <button className="eventPrize" disabled={this.state.registered || this.state.loading} onClick={this.handleClick} className="btn" style={{marginRight:12, marginLeft:'auto', display:'none'}} id="register_button2">Help</button>
 
                 </div>

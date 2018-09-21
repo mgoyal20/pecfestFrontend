@@ -1,7 +1,6 @@
 #event_desc {
     max-width: 1000px;
     display: block;
-    margin: 5em auto;
 }
 
 
@@ -51,6 +50,7 @@ min-height: 6rem;*/
 #event_prize {
     display: flex;
     flex-wrap: wrap;
+    background-color: #000032;
 }
 
 .eventPrize {
@@ -103,8 +103,8 @@ li.tab {
     flex-basis: 120px;
     padding: 1em;
     text-align: center;
-    background-color: #196070;
-    color: #E6FFE0;
+    background-color: gold;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -161,11 +161,34 @@ div.card-content {
     padding: 1em;
 }
 
-.grey {
-    background:;
-}
+/*.grey {*/
+    /*background:;*/
+/*}*/
 
 .card.darken-1 {
     margin: 0;
 }
 
+#details {
+    color: white;
+    background-color: #000032;
+    text-align: justify;
+}
+
+#rules {
+    color: white;
+    background-color: #000032;
+    text-align: justify;
+}
+
+#date {
+    color: white;
+    background-color: #000032;
+    text-align: justify;
+}
+
+#contacts {
+    color: white;
+    background-color: #000032;
+    text-align: justify;
+}
