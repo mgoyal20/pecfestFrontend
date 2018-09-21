@@ -129,7 +129,8 @@ export default class FrontSlide extends Component {
 					<div className="FrontSlide" ref="frontSlide">
             <div className="logoClass"></div>
 						<div style={{height:'100px'}}></div>
-						{/*<div><p style={{color: 'white', fontSize: '3em', margin: '0em'}}>Punjab Engineering College, Chandigarh</p><p style={{color: 'white', fontSize: '1em'}}>presents</p></div>*/}
+						<div style={{height: '150px', backgroundImage: 'url(' + require('./pec_seal.png') + ')', backgroundSize: 'contain',backgroundRepeat: 'no-repeat', backgroundPosition: 'center'}}></div>
+						<div><p style={{color: 'white', fontSize: '1em', margin: '0em'}}>presents</p></div>
 						<div>
 							<Title value="PECFEST'18" />
 						</div>
@@ -140,7 +141,7 @@ export default class FrontSlide extends Component {
 							<div className="divider animated">
 								<Divider style={{ margin: 'auto', display: 'block' }} />
 							</div>
-							<div style={{height:'180px', color: 'white', fontSize: '3rem', textAlign: 'bottom'}}>City of Stars</div>
+							<div style={{height:'100px', color: 'white', fontSize: '3rem', textAlign: 'bottom'}}>City of Stars</div>
 							<div className="FrontSlide-register animated">
 							{
 								!user.isLoggedIn() ?
