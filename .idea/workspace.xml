@@ -3,63 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b2ffcc3b-4670-45dd-aec2-6170b2cd894e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/members.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevelopersPage/members.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FrontSlide.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontSlide.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FrontSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontSlide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hospi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/27.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brochure/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/brochure/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Akanksha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Akanksha.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Akhilesh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Akhilesh.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Ananya.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Ananya.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Aseem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Aseem.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Devansh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Devansh.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Gautam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Gautam.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Gobind.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Gobind.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Gurjot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Gurjot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Harsh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Harsh.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Himansh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Himansh.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Isha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Isha.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Ketan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Ketan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/MayankGoyal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/MayankGoyal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/MayankKaura.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/MayankKaura.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Pratik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Pratik.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Raghav.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Raghav.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Sanpreet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Sanpreet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Shiman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Shiman.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Shivam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Shivam.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Shubam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Shubam.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Shubanshu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Shubanshu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Shyam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Shyam.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Snigdha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Snigdha.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Vaibhav.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Vaibhav.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team/Vaibhav2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/Vaibhav2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,7 +21,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DevelopersPage/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="527">
               <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -88,7 +33,7 @@
       <file leaf-file-name="members.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DevelopersPage/members.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="357">
               <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -120,11 +65,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="FrontSlide.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FrontSlide.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FrontSlide.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="134" column="38" selection-start-line="134" selection-start-column="38" selection-end-line="134" selection-end-column="38" />
+            <state relative-caret-position="298">
+              <caret line="177" column="13" lean-forward="true" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -135,7 +80,7 @@
       <file leaf-file-name="NavigationButton.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NavigationButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="408">
               <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -147,7 +92,7 @@
       <file leaf-file-name="MegaShow.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MegaShows/MegaShow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="2295">
               <caret line="135" column="62" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="62" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -159,7 +104,7 @@
       <file leaf-file-name="Brochure.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Brochure.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="1921">
               <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -171,7 +116,7 @@
       <file leaf-file-name="brochure_list.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/brochure_list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="459">
               <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
@@ -180,11 +125,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrontSlide.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FrontSlide.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FrontSlide.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="68">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Team.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Team.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="371" column="51" lean-forward="true" selection-start-line="371" selection-start-column="41" selection-end-line="371" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,7 +149,7 @@
       <file leaf-file-name="Hospi.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hospi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="2040">
               <caret line="120" column="127" selection-start-line="120" selection-start-column="127" selection-end-line="120" selection-end-column="127" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -263,11 +220,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Hospi.js" />
         <option value="$PROJECT_DIR$/src/DevelopersPage/members.js" />
-        <option value="$PROJECT_DIR$/src/Team.js" />
         <option value="$PROJECT_DIR$/src/Brochure.js" />
-        <option value="$PROJECT_DIR$/src/FrontSlide.js" />
         <option value="$PROJECT_DIR$/src/brochure_list.js" />
         <option value="$PROJECT_DIR$/src/FrontSlide.css" />
+        <option value="$PROJECT_DIR$/src/Team.js" />
+        <option value="$PROJECT_DIR$/src/FrontSlide.js" />
       </list>
     </option>
   </component>
@@ -288,9 +245,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -298,6 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -326,7 +284,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,28 +323,29 @@
       <workItem from="1537468552545" duration="6164000" />
       <workItem from="1537520885723" duration="13570000" />
       <workItem from="1537550102147" duration="6837000" />
-      <workItem from="1537608465303" duration="7477000" />
+      <workItem from="1537608465303" duration="8541000" />
+      <workItem from="1537619191326" duration="1633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34048000" />
+    <option name="totallyTimeSpent" value="36745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14210178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07138136" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18233618" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24074075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -518,11 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lectures.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SignUpForm.js">
@@ -585,9 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,9 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,7 +609,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DevelopersPage/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
+        <state relative-caret-position="527">
           <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
@@ -674,18 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hospi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="2040">
           <caret line="120" column="127" selection-start-line="120" selection-start-column="127" selection-end-line="120" selection-end-column="127" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Team.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="84" column="97" selection-start-line="84" selection-start-column="91" selection-end-line="84" selection-end-column="97" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -694,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MegaShows/MegaShow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="2295">
           <caret line="135" column="62" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="62" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -706,15 +644,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1024">
           <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NavigationButton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="408">
           <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -724,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Brochure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="1921">
           <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -734,7 +669,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DevelopersPage/members.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="357">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -744,7 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brochure_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="459">
           <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
@@ -752,20 +687,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FrontSlide.js">
+    <entry file="file://$PROJECT_DIR$/src/Team.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="134" column="38" selection-start-line="134" selection-start-column="38" selection-end-line="134" selection-end-column="38" />
+        <state relative-caret-position="1058">
+          <caret line="371" column="51" lean-forward="true" selection-start-line="371" selection-start-column="41" selection-end-line="371" selection-end-column="51" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FrontSlide.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontSlide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="177" column="13" lean-forward="true" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

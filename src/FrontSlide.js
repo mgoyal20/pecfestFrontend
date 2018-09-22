@@ -163,7 +163,7 @@ export default class FrontSlide extends Component {
                                 <div className="col FrontSlide-buttons">
 									{
                                     this.state.mobile ? <a className="box bar"
-                                                           href="https://drive.google.com/file/d/1D2bAp2puvsXXTjC-8ejavAYrxCRdDyi9/view">Brochure</a> :
+                                                           href="https://drive.google.com/file/d/1GfJ4MLX99-gWUl6T48mbjx1urW9AZigV/view">Brochure</a> :
                                         <Link className="box bar" to="/brochure">Brochure</Link>
                                 	}
                                 </div>
