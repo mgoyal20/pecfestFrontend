@@ -88,11 +88,21 @@ class SocialNetworkingLinks extends Component {
 
 export default class FrontSlide extends Component {
 	state = {
-		loggedOut: false
+		loggedOut: false,
+		mobile: false
 	}
 
 	handleLogout = () => {
 		this.setState({ loggedOut: true });
+	}
+
+	componentDidMount() {
+		if(window.checkIfMobile()) {
+            this.setState({mobile: true})
+        }
+        else {
+			this.setState({mobile: false})
+		}
 	}
 
 	componentDidUpdate() {
@@ -151,7 +161,11 @@ export default class FrontSlide extends Component {
 							</div>
                             <div className="animated row">
                                 <div className="col FrontSlide-buttons">
-                                    <Link className="box bar" to="/brochure">Brochure</Link>
+									{
+                                    this.state.mobile ? <a className="box bar"
+                                                           href="https://drive.google.com/file/d/1D2bAp2puvsXXTjC-8ejavAYrxCRdDyi9/view">Brochure</a> :
+                                        <Link className="box bar" to="/brochure">Brochure</Link>
+                                	}
                                 </div>
                                 <div className="col FrontSlide-buttons">
                                     <a className="box bar" href="https://goo.gl/forms/9jt3kDMFP1nPHrj42">Campus Ambassador</a>

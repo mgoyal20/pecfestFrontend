@@ -1,11 +1,16 @@
 import profile from './images/profile.png';
+import mayank from './images/mayank.jpg';
+import shyam from '../team/Shyam.jpg';
+import ritesh from './images/ritesh.jpg';
+import krittika from './images/krttika.jpg';
+import vaibhav from './images/vaibhav.jpg';
 
 export default [
 	{
 		id: 1,
 		name: 'Mayank Goyal',
         work: 'Website Coordinator',
-        photo: profile,
+        photo: mayank,
         color: 'rgba(124, 143, 105, 0.5)',
 		github: 'https://github.com/mgoyal20',
 	},
@@ -13,7 +18,7 @@ export default [
         id: 2,
         name: 'Shyam Pandya',
         work: 'Website Coordinator',
-        photo: profile,
+        photo: shyam,
         color: 'rgba(182, 141, 117, 0.8)',
         github: '',
     },
@@ -21,7 +26,7 @@ export default [
         id: 3,
         name: 'Ritesh Goyal',
         work: 'Frontend and App',
-        photo: profile,
+        photo: ritesh,
         color: 'rgba(124, 143, 105, 0.5)',
         github: '',
     },
@@ -39,7 +44,7 @@ export default [
         id: 5,
         name: 'Krittika Chhabra',
         work: 'Frontend',
-        photo: profile,
+        photo: krittika,
         color: 'rgba(124, 143, 105, 0.5)',
         github: '',
     },
@@ -47,7 +52,7 @@ export default [
         id: 6,
         name: 'Vaibhav Wimpsta',
         work: 'Frontend',
-        photo: profile,
+        photo: vaibhav,
         color: 'rgba(182, 141, 117, 0.8)',
         github: '',
     }

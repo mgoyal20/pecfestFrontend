@@ -107,7 +107,7 @@ export default class Hospi extends Component {
                     <div>
                         <p>If you have any queries, please contact-</p>
                         <div className="row">
-                            <div className="card1" style={{backgroundImage: 'url(' + require('./team/placeholder.jpg') + ')'}}>
+                            <div className="card1" style={{backgroundImage: 'url(' + require('./DevelopersPage/images/Saurabh.jpg') + ')'}}>
                                 <div className="card_inner">
                                     <div className="pad"></div>
                                     <div className="card_content_top"></div>
@@ -118,7 +118,7 @@ export default class Hospi extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="card1" style={{backgroundImage: 'url(' + require('./team/placeholder.jpg') + ')'}}>
+                            <div className="card1" style={{backgroundImage: 'url(' + require('./DevelopersPage/images/Dwija.JPG') + ')'}}>
                                 <div className="card_inner">
                                     <div className="pad"></div>
                                     <div className="card_content_top"></div>
