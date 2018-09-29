@@ -242,7 +242,7 @@ export default class Team extends Component {
               <div className="card_content_top"></div>
               <div className="card_content_bottom">
                 <div className="name">Raghav Arora</div>
-                <div className="email">raghavarora.beaero14@pec.edu.in</div>
+                <div className="email">raghavarora.beaero15@pec.edu.in</div>
                 <div className="phone">8968222377</div>
               </div>
             </div>
