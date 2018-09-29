@@ -15,7 +15,6 @@ const links = [
 	 {
 	 	name: 'Developers',
 	 	to: '/developers',
-	 	type: 'anotherUrl',
 	 },
 	 {
 	 	name: 'Team',
@@ -25,10 +24,6 @@ const links = [
 		name: 'PECFEST 2017',
 		to: '/pecfest2017',
 	},
-	// {
-	// 	name: 'Marketing Brochure',
-	// 	to: '/brochure',
-	// },
 	{
 		name: 'Social',
 		to: '/social'

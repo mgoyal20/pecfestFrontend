@@ -21,4 +21,6 @@
 	margin: 1em;
 	flex: 1;
 	text-transform: uppercase;
+    font-weight: bold;
+    background-color: rgba(0,0,32,0.5);
 }

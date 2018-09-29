@@ -81,8 +81,14 @@
 
 }
 
-.ShortEvent-wrapper {
+.ShortEvent-wrapper:nth-child(odd) {
 	background-color: gold;
+	color: black;
+}
+
+.ShortEvent-wrapper:nth-child(even) {
+	background-color: tomato;
+	color: black;
 }
 
 .ShortEvent-background {

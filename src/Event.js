@@ -24,12 +24,12 @@ function populate_event_card(curr_event) {
     }
     // prizes
     if (curr_event.prize!=undefined && curr_event.prize.length>1) {
-        var prizes_par = parseInt(curr_event.prize);
-        if (prizes_par!=NaN && prizes_par>=100) {
-            document.getElementById("prizes_worth").innerHTML = "Prizes Worth";
-        } else {
-            document.getElementById("prizes_worth").innerHTML = "Prizes";
-        }
+        // var prizes_par = parseInt(curr_event.prize);
+        // if (prizes_par!=NaN && prizes_par>=100) {
+        //     document.getElementById("prizes_worth").innerHTML = "Prizes Worth";
+        // } else {
+        //     document.getElementById("prizes_worth").innerHTML = "Prizes";
+        // }
         document.getElementById("event_prize_wrapper").style.display = '';
         var prizes_split = curr_event.prize.split(';');
         var prizes_content = "";
@@ -177,10 +177,10 @@ class Event extends Component {
       <div className="col container-fluid" id="event_desc">
         <div className="card darken-1" style={{boxShadow: 'none'}}>
             <div className="card-content " style={{paddingBottom: 10,paddingTop: 10}}>
-                <div className="row" style={{marginBottom: 0}}><span className="card-title"><h1 style={{marginTop:0, color:"tomato", backgroundColor:"#000032"}} id="event_name"><span style={{color:"#F0F0F0"}}>▆▆▆▆▆▆</span></h1>
+                <div className="row" style={{marginBottom: 0}}><span className="card-title"><h1 style={{marginTop:0, color:"tomato", backgroundColor:"#000032"}} id="event_name"><span style={{color:"#000032"}}>▆▆▆▆▆▆</span></h1>
                     </span>
                 </div>
-                <div className="row" style={{marginTop: '-1rem', marginBottom: '1rem'}}><span><h3 style={{marginTop:0, color:"white", backgroundColor:"#000032"}} id="event_info"><span style={{color:'#F0F0F0'}}>▆▆▆▆▆▆▆▆▆▆▆▆▆▆</span></h3>
+                <div className="row" style={{marginTop: '-1rem', marginBottom: '1rem'}}><span><h3 style={{marginTop:0, color:"white", backgroundColor:"#000032"}} id="event_info"><span style={{color:'#000032'}}>▆▆▆▆▆▆▆▆▆▆▆▆▆▆</span></h3>
                     </span>
                 </div>
                 <div id="event_prize_wrapper">
@@ -188,9 +188,9 @@ class Event extends Component {
                         <img src={trophy} width="48" height="48" style={{marginRight: '1rem', marginTop: '-5px'}} />
                     </div>
                     <div className="eventPrize" id="Something">
-                        <span style={{}} id="prizes_worth"><span style={{color:'#F0F0F0'}}>▆▆▆▆▆▆▆▆▆</span></span>
+                        {/*<span style={{}} id="prizes_worth"><span style={{color:'#000032'}}>▆▆▆▆▆▆▆▆▆</span></span>*/}
                         <br />
-                        <span style={{}} id="event_prize"><span style={{color:'#F0F0F0'}}>▆▆▆▆</span></span>
+                        <span style={{}} id="event_prize"><span style={{color:'#000032'}}>▆▆▆▆</span></span>
                     </div>
                     <button className="eventPrize" disabled={this.state.registered || this.state.loading} onClick={this.handleClick} className="btn" style={{marginRight:0, marginLeft:'auto', display:'none', color:'#ff9800', fontWeight:'bold'}} id="register_button">Register</button>
                     <button className="eventPrize" disabled={this.state.registered || this.state.loading} onClick={this.handleClick} className="btn" style={{marginRight:12, marginLeft:'auto', display:'none'}} id="register_button2">Help</button>
@@ -199,17 +199,17 @@ class Event extends Component {
             </div>
             <div className="card-tabs">
                 <ul className="tabs tabs-fixed-width" id="event_desc_tabs">
-                    <li className="tab active"><a href="#test4"><span style={{color:'#F0F0F0'}}>▆▆▆</span></a></li>
-                    <li className="tab"><a href="#test5"><span style={{color:'#F0F0F0'}}>▆▆▆▆▆▆</span></a></li>
-                    <li className="tab"><a href="#test6"><span style={{color:'#F0F0F0'}}>▆▆▆▆▆</span></a></li>
+                    <li className="tab active"><a href="#test4"><span style={{color:'#000032'}}>▆▆▆</span></a></li>
+                    <li className="tab"><a href="#test5"><span style={{color:'#000032'}}>▆▆▆▆▆▆</span></a></li>
+                    <li className="tab"><a href="#test6"><span style={{color:'#000032'}}>▆▆▆▆▆</span></a></li>
                 </ul>
             </div>
             <div className="card-content grey lighten-4" id="event_description">
                 <div id="test4">
-                    <p><span style={{color:'#F0F0F0'}}>▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆<br/>▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆<br/>▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆</span></p>
+                    <p><span style={{color:'#000032'}}>▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆<br/>▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆<br/>▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆</span></p>
                 </div>
-                <div id="test5"><span style={{color:'#F0F0F0'}}></span></div>
-                <div id="test6"><span style={{color:'#F0F0F0'}}></span></div>
+                <div id="test5"><span style={{color:'#000032'}}></span></div>
+                <div id="test6"><span style={{color:'#000032'}}></span></div>
             </div>
         </div>
         {

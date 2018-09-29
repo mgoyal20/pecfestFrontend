@@ -1,5 +1,5 @@
-import profile from './images/profile.png';
-import mayank from './images/mayank.jpg';
+import akankasha from './images/akankasha.jpg';
+import mayank from '../team/MayankGoyal.jpg';
 import shyam from '../team/Shyam.jpg';
 import ritesh from './images/ritesh.jpg';
 import krittika from './images/krttika.jpg';
@@ -34,7 +34,7 @@ export default [
         id: 4,
         name: 'Aakankasha Sharma',
         work: 'Frontend and Backend',
-        photo: profile,
+        photo: akankasha,
         color: 'rgba(182, 141, 117, 0.8)',
         github: '',
         linkedIn: '',
