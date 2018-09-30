@@ -9,7 +9,7 @@ class ForgotIDForm extends Component {
 		status: '',
 		email: '',
 		done: false
-	}
+	};
 
 	handleSubmit = (event) => {
 		event.stopPropagation();
@@ -24,7 +24,7 @@ class ForgotIDForm extends Component {
 				this.setState({ status: res.message })
 			}
 		})
-	}
+	};
 
 	handleChange = ({ target }) => {
 		this.setState({ email: target.value })
