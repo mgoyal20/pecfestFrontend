@@ -336,7 +336,7 @@ class SignUpSteps extends Component {
 						})
 					}
 				}
-				this.setState({ submitting: false, error: true,  disabled: true, message: err.message || 'Some unknown error has occurred.'})
+				this.setState({ submitting: false, error: true,  disabled: true, message: 'Some unknown error has occurred.'})
 			}
 		});
 

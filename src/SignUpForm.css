@@ -71,3 +71,7 @@ input.SignUpInput::placeholder {
 .SignUpElement-description {
 	color: tomato;
 }
+
+.SignUpForm-ErrorMessage {
+	color: white;
+}
