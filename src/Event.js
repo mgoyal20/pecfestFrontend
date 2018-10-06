@@ -48,7 +48,11 @@ function populate_event_card(curr_event) {
         tabs_content = tabs_content + "<li class=\"tab\"><a href=\"#details\" class=\"active teal-text\">Details</a></li>";
         desc_content = desc_content + "<div id=\"details\" style=\"\"><p>" + curr_event.details + "</p>";
         if (curr_event.pdfUrl) {
-            desc_content += `<br /><a class="statementLink" href="${curr_event.pdfUrl}">Download problem statement</a></div>`
+            var pdfUrl_split = curr_event.pdfUrl.split(';');
+            for(var x=1;x<=pdfUrl_split.length;x++) {
+                desc_content += `<br /><a class="statementLink" href="${pdfUrl_split[x]}">Download problem statement ` + x + `</a>`
+            }
+            desc_content += `</div>`
         } else {
             desc_content += '</div>'
         }
