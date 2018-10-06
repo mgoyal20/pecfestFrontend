@@ -49,8 +49,9 @@ function populate_event_card(curr_event) {
         desc_content = desc_content + "<div id=\"details\" style=\"\"><p>" + curr_event.details + "</p>";
         if (curr_event.pdfUrl) {
             var pdfUrl_split = curr_event.pdfUrl.split(';');
-            for(var x=1;x<=pdfUrl_split.length;x++) {
-                desc_content += `<br /><a class="statementLink" href="${pdfUrl_split[x]}">Download problem statement ` + x + `</a>`
+            console.log(pdfUrl_split);
+            for(var x=0;x<pdfUrl_split.length;) {
+                desc_content += `<br /><a class="statementLink" href="` + pdfUrl_split[x] + `">Download problem statement ` + ++x + `</a>`
             }
             desc_content += `</div>`
         } else {
