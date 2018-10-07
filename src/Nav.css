@@ -26,6 +26,7 @@ nav.closed {
     height: 150px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    transform: scale(0.8);
 }
 nav.top-right2 {
     top: 30px;
@@ -36,6 +37,7 @@ nav.open {
     height: 600px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    transform: scale(1.2);
 }
 nav.top-right {
     top: -200px;
