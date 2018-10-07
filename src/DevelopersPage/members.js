@@ -4,6 +4,7 @@ import shyam from '../team/Shyam.jpg';
 import ritesh from './images/ritesh.jpg';
 import krittika from './images/krttika.jpg';
 import vaibhav from './images/vaibhav.jpg';
+import placeholder from './images/profile.png';
 
 export default [
 	{
@@ -50,9 +51,17 @@ export default [
     },
     {
         id: 6,
-        name: 'Vaibhav Wimpsta',
+        name: 'Vaibhav Setia',
         work: 'Frontend',
         photo: vaibhav,
+        color: 'rgba(182, 141, 117, 0.8)',
+        github: '',
+    },
+    {
+        id: 7,
+        name: 'Paritosh Malhotra',
+        work: 'Creative Designing',
+        photo: placeholder,
         color: 'rgba(182, 141, 117, 0.8)',
         github: '',
     }
