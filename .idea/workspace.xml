@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ffcc3b-4670-45dd-aec2-6170b2cd894e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PECFEST.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PECFEST.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/napp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/napp.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PECFEST.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PECFEST.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+            <state relative-caret-position="343">
+              <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -96,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="napp.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="napp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/napp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="377">
@@ -250,8 +248,8 @@
         <option value="$PROJECT_DIR$/src/Nav.js" />
         <option value="$PROJECT_DIR$/src/Hospi.js" />
         <option value="$PROJECT_DIR$/src/DevelopersPage/members.js" />
-        <option value="$PROJECT_DIR$/src/PECFEST.js" />
         <option value="$PROJECT_DIR$/src/napp.js" />
+        <option value="$PROJECT_DIR$/src/PECFEST.js" />
       </list>
     </option>
   </component>
@@ -360,18 +358,18 @@
       <workItem from="1538830491138" duration="1044000" />
       <workItem from="1538855097852" duration="80000" />
       <workItem from="1538890078023" duration="2279000" />
-      <workItem from="1539070949799" duration="121000" />
+      <workItem from="1539070949799" duration="406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69359000" />
+    <option name="totallyTimeSpent" value="69644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1269002" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1269002" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -380,7 +378,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24928775" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24928775" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -736,13 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
+    <entry file="file://$PROJECT_DIR$/src/napp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="377">
+          <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -756,10 +751,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/napp.js">
+    <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
+        <state relative-caret-position="343">
+          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
