@@ -47,7 +47,7 @@ export default class PECFEST extends Component {
             <Route path="/pecfest2017" exact component={PecFest2016}/>
             <Route path="/hospitality" exact component={Hospi}/>
             <Route path="/team" exact component={Team}/>
-            <Route path="/sponsors" exact component={() => <Sponsors data={sponsors}/>}/>
+            <Route path="/sponsors" exact component={() => <Sponsors data={ComingSoon}/>}/>
             <Route path="/social" exact component={() => <YWC data={sponsors}/>}/>
             <Route path="/activities/Lectures" exact component={Lectures}/>
             <Route path="/developers" exact component={DevelopersPage}/>

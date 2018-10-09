@@ -88,7 +88,7 @@ class Sponsors extends Component{
 
 		return (
 			<div id="sponsors_main-div">
-			<div className="sponsors_App-main-header" ><h1>Sponsors</h1></div>
+			<div className="sponsors_App-main-header" ><h1>Previous Sponsors</h1></div>
 			{final_arr}
 			</div>
 		);
