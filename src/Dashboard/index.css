@@ -1,0 +1,191 @@
+:root{
+
+
+    --main_color : #196070;
+    --text_color : #e5ffe0;
+    --background_color: #f5f5dc;
+    
+        
+    /*Uncomment below to see the dark theme*/
+    /*
+    --main_color : #27221F;
+    --text_color : #f5f5df;
+    --background_color: #ffffff;
+    */
+}
+
+
+.flex-container
+{
+	/*padding-top: .1em;*/
+	display: flex;
+	flex-flow:row nowrap;
+}
+
+.flex_left
+{
+	flex: 70%;
+	color: var(--main_color);
+	/*background-color: var(--background_color);*/
+	/*height: 1620px;*/
+}
+
+.flex_right
+{
+	flex : 30%;
+	color: black;
+	background-color: gold;
+	/*height:1000px;*/
+	height:100vh;
+	padding-top: 3em;
+	/*padding-left: 0.3em;*/
+	text-align: center;
+}
+
+.buttons
+{
+	display:flex;
+	justify-content: space-around;
+	background-color: var(--main_color);
+	color: var(--text_color);
+}
+
+.buttons_list{
+	display: block;	
+	font-size: 1.6rem;
+	/*padding : 12px 14px;*/
+	/*background: #32333B;*/
+	margin-bottom: 1px;
+	/*border-left: 5px solid #fff;*/
+    /*border-left-color: rgb(255, 255, 255);*/
+}
+
+.button_internal {
+	margin-bottom : 1em;
+}
+
+.button_internal_reg{
+	font-weight: bold;
+	font-stretch: expanded;
+}
+
+.button_internal_notif{
+	font-weight: bold;
+	font-stretch: expanded;
+}
+
+/*.button_internal
+{
+	height: 40px;
+	border-style: solid;
+	border-width: 0px 0px 0px 3px;
+	border-color: white;
+	margin:0;
+	background-color: white;
+	padding:0;
+	text-align: center;
+}*/
+
+/*.button_internal:hover
+{
+	border-style: solid;
+	border-width: 0px 0px 0px 3px;
+	border-color: white;
+}*/
+
+table
+{
+	width:100%;
+	border-collapse: collapse;
+	overflow-x: scroll;
+}
+
+th, td
+{
+	text-align:center;
+	font-size:18px;
+	border : 2px solid var(--main_color);
+}
+
+th
+{
+	background-color: var(--text_color);
+	color : var(--main_color);	
+}
+
+.registration_table
+{
+	overflow: scroll;
+}
+
+.notification_table
+{
+	/*overflow: scroll;*/
+}
+
+.buttons_for_mobile{
+	display: none;
+}
+
+@media screen and (max-width: 767px) {
+	.flex-container
+	{
+		display: flex;
+		flex-flow:column nowrap;
+		overflow-y: scroll;
+	}
+	.buttons
+	{
+		display:flex;
+		flex-direction: column;
+		justify-content: space-around;
+		background-color: var(--main_color);
+		color: var(--text_color);
+	}
+	.flex_right
+	{
+		display: none;
+	}
+
+	.buttons_for_mobile
+	{
+		display: block;
+		text-align:center;
+		/*padding-right:0.5em;*/
+		padding: 0.5em 0.3em 0em 0.3em;
+		font-size:1.5rem;
+		overflow-x: hidden;
+		background-color: var(--main_color);
+		color:var(--text_color); 
+	}
+
+	/*.bigScreensOnly
+	{
+		display: none;
+	}*/
+}
+
+.headings{
+	text-align: center;
+}
+
+img{
+	border-radius: 90%;
+}
+
+.bigScreensOnly
+{
+	background-color: gold;
+	padding : 0.5em 1em 0.5em 1em;
+	margin : 0px 2em 1.5em 2em;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.request-login
+{
+	text-align:center;
+	color : tomato;
+}

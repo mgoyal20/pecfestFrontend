@@ -52,7 +52,7 @@ class UserInfo extends Component {
 						<div className="UserInfo-user">
 						{
 							<p style={{ textTransform: 'capitalize' }}>
-							Welcome <Link to="/profile"><strong style={{ color: 'white' }}>{user.currentUser.name}</strong></Link>! <button className="FestButton" onClick={this.handleLogout}>Logout?</button>
+							Welcome <Link to="/dashboard"><strong style={{ color: 'white' }}>{user.currentUser.name}</strong></Link>! <button className="FestButton" onClick={this.handleLogout}>Logout?</button>
 							</p>
 						}
 						</div>

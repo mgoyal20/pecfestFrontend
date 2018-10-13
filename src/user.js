@@ -57,26 +57,57 @@ window._user = {
   },
 
   loginLocal(user) {
+    console.log("login local");
     this.currentUser = user;
     this.loggedIn = true;
     if (typeof window.localStorage !== 'undefined') {
-      window.localStorage.setItem('pecfestId', user.pecfestId)
+      window.localStorage.setItem('pecfestId', user.pecfestId);
     }
   },
 
   getUser(config) {
+    console.log("Getting user details");
     if (this.haveDetails) {
+      console.log("haveDetails");
       return setTimeout(() => config.onSuccess(this.currentUser));
     }
     if (this.loggedIn) {
+      console.log(user.loggedIn + " : logged In");
       this.login(this.currentUser.pecfestId, {onSuccess: () => {
         config.onSuccess(this.currentUser);
         this.haveDetails = true;
       }, onFailed: config.onFailed });
 
     } else {
+      // console.log("err in getUser");
       setTimeout(() => config.onFailed({ message: 'Could not login the user.'}));
     }
+  },
+
+  getRegisteredEvents(config) {
+    fetch(api.url + '/user/'+user.currentUser.pecfestId+'/registered_events')
+      .then(data => data.json())
+      .then(events => {
+        /*console.log(user.currentUser.pecfestId + " is the pecfestId");
+        console.log(user.pecfestId + " is the pecfestId");*/
+        config.onSuccess(events);
+      })
+      .catch(err => {
+        console.log("This should not happened. If you are dev, then please report this immediately");
+        config.onFailed(err);
+      });
+  },
+
+  getNotifications(config) {
+    fetch(api.url + 'user/notifications?id=ADITCYP5ID')
+      .then(data => data.json())
+      .then(notifs => {
+        config.onSuccess(notifs);
+      })
+      .catch(err => {
+        console.log("This should not happened. If you are dev, then please report this immediately");
+        config.onFailed(err);
+      });
   },
 
   login(userId, config) {

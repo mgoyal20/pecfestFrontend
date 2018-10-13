@@ -27,7 +27,7 @@ class SignUpOrLoginForm extends Component {
 
   handleCancel = () => {
 
-    let continueUrl = '/';
+    let continueUrl = '/dashboard';
     let search = this.props.location.search.slice('?continue='.length);
     if (search.length > 0) {
       continueUrl = search;
