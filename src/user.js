@@ -66,13 +66,13 @@ window._user = {
   },
 
   getUser(config) {
-    console.log("Getting user details");
+    // console.log("Getting user details");
     if (this.haveDetails) {
-      console.log("haveDetails");
+      // console.log("haveDetails");
       return setTimeout(() => config.onSuccess(this.currentUser));
     }
     if (this.loggedIn) {
-      console.log(user.loggedIn + " : logged In");
+      // console.log(user.loggedIn + " : logged In");
       this.login(this.currentUser.pecfestId, {onSuccess: () => {
         config.onSuccess(this.currentUser);
         this.haveDetails = true;
