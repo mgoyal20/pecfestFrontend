@@ -71,6 +71,7 @@ class Sponsors extends Component{
 
 		const final_arr = img_concat.map((imag,i) => {
 			return (
+				imag.length ?
 					<div id="holder-div" key={i}>
 						<br/>
 						<div className="sponsors_App-indi-headers">
@@ -79,24 +80,20 @@ class Sponsors extends Component{
 						<div className="sponsors_flex-css" key={i}>
 							{imag.concat(" ")}
 						</div>
-					</div>
+					</div> : window.j++
 					);
-
 		});
 
 
 
 		return (
 			<div id="sponsors_main-div">
-			<div className="sponsors_App-main-header" ><h1>Previous Sponsors</h1></div>
+			<div className="sponsors_App-main-header" ><h1>Sponsors</h1></div>
 			{final_arr}
 			</div>
 		);
 
    }
 }
-
-
-
 
 export default Sponsors;

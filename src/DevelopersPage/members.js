@@ -4,6 +4,7 @@ import shyam from '../team/Shyam.jpg';
 import ritesh from './images/ritesh.jpg';
 import krittika from './images/krttika.jpg';
 import vaibhav from './images/vaibhav.jpg';
+import paritosh from './images/paritosh.jpeg';
 import placeholder from './images/profile.png';
 
 export default [
@@ -61,7 +62,7 @@ export default [
         id: 7,
         name: 'Paritosh Malhotra',
         work: 'Creative Designing',
-        photo: placeholder,
+        photo: paritosh,
         color: 'rgba(182, 141, 117, 0.8)',
         github: '',
     }
