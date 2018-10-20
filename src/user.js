@@ -38,6 +38,7 @@ window._user = {
         const pecfestId = window.localStorage.getItem('pecfestId')
         if (pecfestId.length > 1) {
           this.currentUser.pecfestId = pecfestId
+          // this.currentUser.name = 
           this.loggedIn = true;
           return true
         }
@@ -57,11 +58,17 @@ window._user = {
   },
 
   loginLocal(user) {
-    console.log("login local");
+    // console.log("login local");
     this.currentUser = user;
     this.loggedIn = true;
+    // console.log("login local 2");
     if (typeof window.localStorage !== 'undefined') {
       window.localStorage.setItem('pecfestId', user.pecfestId);
+      // console.log("login local 3");
+    }
+    else
+    {
+      console.log("something went wrong in login local");
     }
   },
 
@@ -72,7 +79,7 @@ window._user = {
       return setTimeout(() => config.onSuccess(this.currentUser));
     }
     if (this.loggedIn) {
-      // console.log(user.loggedIn + " : logged In");
+      console.log(user.loggedIn + " : logged In");
       this.login(this.currentUser.pecfestId, {onSuccess: () => {
         config.onSuccess(this.currentUser);
         this.haveDetails = true;
@@ -85,11 +92,10 @@ window._user = {
   },
 
   getRegisteredEvents(config) {
-    fetch(api.url + '/user/'+user.currentUser.pecfestId+'/registered_events')
+    // console.log(  api.url + 'user/'+user.currentUser.pecfestId+'/registered_events');
+    fetch(api.url + 'user/'+user.currentUser.pecfestId+'/registered_events')
       .then(data => data.json())
       .then(events => {
-        /*console.log(user.currentUser.pecfestId + " is the pecfestId");
-        console.log(user.pecfestId + " is the pecfestId");*/
         config.onSuccess(events);
       })
       .catch(err => {
@@ -99,6 +105,7 @@ window._user = {
   },
 
   getNotifications(config) {
+    // console.log("get notifications");
     fetch(api.url + 'user/notifications?id=ADITCYP5ID')
       .then(data => data.json())
       .then(notifs => {

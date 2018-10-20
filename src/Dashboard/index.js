@@ -19,19 +19,33 @@ class Dashboard extends Component {
     this.state = {
       registeredEvents: true, 
       haveNotifs: false,
+      haveRegisteredEvents: false,
       data: null,
+      events: [],
       loading: true
     };
     //this.getData();
   }
 
   componentDidMount() {
+  
+  if(user.isLoggedIn())
+    {
+      // console.log("user is logged in");
+      this.setState({loading:false,user:user.currentUser})
+      // console.log("user details: " + user);
+    }
+    else
+    {
+      this.setState({message: 'Failed to login', showMessage: true});
+    }
+
     user.getRegisteredEvents({
       onSuccess: events => {
-        this.setState({events: events, registeredEvents: true});
+        this.setState({events: events, haveRegisteredEvents: true});
+        // console.log(events.result);
       },
       onFailed: err => {
-        // console.log("Could not retrieve registered Events");
         this.setState({error: true});
       }
     }),
@@ -45,9 +59,9 @@ class Dashboard extends Component {
           // console.log("Could not retrieve Notifications");
           this.setState({error: true});
         }
-      }),
+      });
 
-      user.getUser({
+      /*user.getUser({
         onSuccess: (user) => {
           this.setState({user, loading: false});
         },
@@ -59,7 +73,7 @@ class Dashboard extends Component {
             this.setState({message: 'Failed to login', showMessage: true});
           }
         }
-      });
+      });*/
   }
 
   getData() {
@@ -77,6 +91,8 @@ class Dashboard extends Component {
   displayNotifications() {
     this.setState({registeredEvents: false});
   }
+
+
 
   render() {
     if (this.state.showMessage) {
@@ -98,12 +114,17 @@ class Dashboard extends Component {
     if (registeredEvents) {
       result = <div id="reg" className="registration_table">
       <h1 className="bigScreensOnly">Registered Events</h1>
-          { events.length?
-            events.map((event, i) => (
+          { this.state.haveRegisteredEvents?
+            events.result.map((event, i) => (
               <EventRegistrations
                 key={i}
                 _key={i}
-                event={event.name}
+                name={event.event.name}
+                category={event.event.category}
+                eventType={event.event.eventType}
+                leader={event.leader.name}
+                members={event.members}
+                eventId={event.event.id}
                 date={event.date}
                 venue={event.venue}
                 time={event.time}
@@ -199,7 +220,7 @@ class Dashboard extends Component {
             {/*<h1>PECFEST 2018</h1>*/}
             <img src={pecfest_logo} alt="User Avatar"/>
 
-            <h2 style={{fontSize:"1.4em"}}>{user.name}</h2>
+            <h2 style={{fontSize:"1.4em"}}>{user.pecfestId}</h2>
           </div>
 
           <div className="user_information">

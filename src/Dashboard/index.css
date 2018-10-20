@@ -115,7 +115,7 @@ th
 
 .registration_table
 {
-	overflow: scroll;
+	overflow-y: scroll;
 }
 
 .notification_table
