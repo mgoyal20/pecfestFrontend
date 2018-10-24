@@ -1,3 +1,4 @@
+import assoc0 from './images/DLF.jpg';
 import assoc1 from './images/Hero logo.png';
 import assoc2 from './images/Hero_Lectro Logo.jpg';
 import assoc3 from './images/Havells.PNG';
@@ -6,6 +7,12 @@ import assoc5 from './images/logo pspf.jpg';
 import assoc6 from './images/Pokerbaazi_Poker Partner.jpg';
 import assoc7 from './images/LetsShave.com.png';
 import assoc8 from './images/pupulse_youth.jpg';
+import assoc9 from './images/Healthy Home Paint Logo.jpg';
+import assoc10 from './images/MacoBrew.jpg';
+import assoc11 from './images/Netplus Broadband Logo Big Size.jpg';
+import assoc12 from './images/Zapbuild.JPG';
+import assoc13 from './images/Sparx Logo.jpg';
+import assoc14 from './images/tech brewery logo.png';
 
 import ass1 from './images/JK cement ltd final logo.jpg';
 import ass2 from './images/verka.jpg';
@@ -13,11 +20,21 @@ import ass3 from './images/PML Logo.jpg';
 import ass4 from './images/HMEL.PNG';
 import ass5 from './images/ICICI.jpg';
 import ass6 from './images/BrewEstate.png';
+import ass7 from './images/BrainPundits.JPG';
+import ass8 from './images/British Council.jpg';
+import ass9 from './images/CCC.JPG';
+import ass10 from './images/madame.jpeg';
+import ass11 from './images/MMU-Results-2018__01.jpg';
+import ass12 from './images/MTV.JPG';
+import ass13 from './images/Playground.JPG';
+import ass14 from './images/Swaraj.JPG';
+import ass15 from './images/SC.png';
 
 import food1 from './images/Churiosity.jpeg';
-import food2 from './images/Burger Point.jpeg';
 import food3 from './images/London Shakes.jpg';
 import food4 from './images/Prince Refreshments_Food Stall.jpg';
+import food5 from './images/BostonFries.png';
+import food6 from './images/Hangry.JPG';
 
 import ca1 from './images/Careerguide.jpg';
 import ca2 from './images/eatmynews.png';
@@ -32,24 +49,32 @@ import ca8 from './images/Millionlights Logo Gray.png';
 /*Keep the id of a particular type of sponsor to be the same throughout.*/
 
 export default [
-	{
-		id : 0,
-		name : 'Hero Cycles',
-		image : assoc1,
-		color : '',
-		type: 'In Association with',
-		link : ''
-	},
-	{
-		id : 0,
-		name : 'Hero Lectro',
-		image : assoc2,
-		color : '',
-		type: 'In Association with',
-		link : ''
-	},
     {
         id : 0,
+        name : 'DLF',
+        image : assoc0,
+        color : '',
+        type: 'Co-Powered By',
+        link : ''
+    },
+    {
+        id : 1,
+        name : 'Hero Cycles',
+        image : assoc1,
+        color : '',
+        type: 'In Association with',
+        link : ''
+    },
+    {
+        id : 1,
+        name : 'Hero Lectro',
+        image : assoc2,
+        color : '',
+        type: 'In Association with',
+        link : ''
+    },
+    {
+        id : 1,
         name : 'Havells',
         image : assoc3,
         color : '',
@@ -57,27 +82,27 @@ export default [
         link : ''
     },
 
-	{
+    {
         link : 'https://go.onelink.me/bIdt/Spectal4',
-        id : 1,
+        id : 2,
         name : 'Tik Tok',
         image : assoc4,
         color : '',
         type : 'Social Media Partner'
     },
 
-	{
-		link : '',
-		id : 2,
-		name : 'Procolor',
-		image : assoc5,
-		color : '',
-		type : 'Photography Partner'
-	},
+    {
+        link : '',
+        id : 3,
+        name : 'Zap Build',
+        image : assoc12,
+        color : '',
+        type : 'Technical Powered By'
+    },
 
     {
         link : 'https://www.pokerbaazi.com',
-        id : 3,
+        id : 4,
         name : 'PokerBaazi',
         image : assoc6,
         color : '',
@@ -86,7 +111,7 @@ export default [
 
     {
         link : '',
-        id : 4,
+        id : 5,
         name : 'Lets Shave',
         image : assoc7,
         color : '',
@@ -95,21 +120,79 @@ export default [
 
     {
         link : '',
-        id : 5,
+        id : 6,
         name : 'PU Pulse',
         image : assoc8,
         color : '',
         type : 'Student Media Partner'
     },
+    {
+        link : '',
+        id : 7,
+        name : 'Sparx',
+        image : assoc13,
+        color : '',
+        type : 'Footwear Partner'
+    },
+    {
+        link : '',
+        id : 8,
+        name : 'MacoBrew',
+        image : assoc10,
+        color : '',
+        type : 'Brewing Partner'
+    },
+    {
+        link : '',
+        id : 9,
+        name : 'NetPlus Broadband',
+        image : assoc11,
+        color : '',
+        type : 'Broadband Partner'
+    },
 
-	{
-		link : '',
-		id : 18,
-		name : 'JK Cement',
-		image : ass1,
-		color : '',
-		type: 'Associate Sponsors'
-	},
+    {
+        link : '',
+        id : 10,
+        name : 'Procolor',
+        image : assoc5,
+        color : '',
+        type : 'Photography Partner'
+    },
+
+    {
+        link : '',
+        id : 11,
+        name : 'Tech Brewery',
+        image : assoc14,
+        color : '',
+        type : 'Ethical Hacking Partner'
+    },
+    {
+        link : '',
+        id : 12,
+        name : 'Brew Estate',
+        image : ass6,
+        color : '',
+        type: 'Merchandise Partner'
+    },
+
+    {
+        link : '',
+        id : 18,
+        name : 'Nerolac Paints',
+        image : assoc9,
+        color : '',
+        type : 'Associate Sponsors'
+    },
+    {
+        link : '',
+        id : 18,
+        name : 'JK Cement',
+        image : ass1,
+        color : '',
+        type: 'Associate Sponsors'
+    },
     {
         link : '',
         id : 18,
@@ -145,44 +228,113 @@ export default [
     {
         link : '',
         id : 18,
-        name : 'Brew Estate',
-        image : ass6,
+        name : 'Brain Pundits',
+        image : ass7,
+        color : '',
+        type: 'Associate Sponsors'
+    },
+    {
+        link : '',
+        id : 18,
+        name : 'British Council',
+        image : ass8,
+        color : '',
+        type: 'Associate Sponsors'
+    },
+    {
+        link : '',
+        id : 18,
+        name : 'CCC',
+        image : ass9,
+        color : '',
+        type: 'Associate Sponsors'
+    },{
+        link : '',
+        id : 18,
+        name : 'Madame',
+        image : ass10,
+        color : '',
+        type: 'Associate Sponsors'
+    },{
+        link : '',
+        id : 18,
+        name : 'Maharishi Markandeshwar University',
+        image : ass11,
+        color : '',
+        type: 'Associate Sponsors'
+    },{
+        link : '',
+        id : 18,
+        name : 'MTV',
+        image : ass12,
+        color : '',
+        type: 'Associate Sponsors'
+    },{
+        link : '',
+        id : 18,
+        name : 'Playground',
+        image : ass13,
+        color : '',
+        type: 'Associate Sponsors'
+    },{
+        link : '',
+        id : 18,
+        name : 'Swaraj Tractors',
+        image : ass14,
+        color : '',
+        type: 'Associate Sponsors'
+    },{
+        link : '',
+        id : 18,
+        name : 'Story Creators',
+        image : ass15,
         color : '',
         type: 'Associate Sponsors'
     },
 
-	{
-		link : '',
-		id : 19,
-		name : 'Churiosity',
-		image : food1,
-		color : '',
-		type : 'Food Partners'
-	},
+
     {
         link : '',
         id : 19,
-        name : 'Burger Point',
-        image : food2,
+        name : 'Churiosity',
+        image : food1,
         color : '',
         type : 'Food Partners'
     },
-	{
-		link : '',
-		id : 19,
-		name : 'London Shakes',
-		image : food3,
-		color : '',
-		type: 'Food Partners'
-	},
-	{
-		link : '',
-		id : 19,
-		name : 'Prince Refreshments',
-		image : food4,
-		color : '',
-		type : 'Food Partners'
-	},
+    {
+        link : '',
+        id : 19,
+        name : 'London Shakes',
+        image : food3,
+        color : '',
+        type: 'Food Partners'
+    },
+    {
+        link : '',
+        id : 19,
+        name : 'Prince Refreshments',
+        image : food4,
+        color : '',
+        type : 'Food Partners'
+    },
+
+    {
+        link : '',
+        id : 19,
+        name : 'Boston Fries',
+        image : food5,
+        color : '',
+        type : 'Food Partners'
+    },
+
+    {
+        link : '',
+        id : 19,
+        name : 'Hangry',
+        image : food6,
+        color : '',
+        type : 'Food Partners'
+    },
 
     {
         link : '',
@@ -200,7 +352,7 @@ export default [
         color : '',
         type : 'Campus Ambassador Partners'
     },
-	{
+    {
         link : '',
         id : 20,
         name : 'Emitap Entertainments',
@@ -208,7 +360,7 @@ export default [
         color : '',
         type : 'Campus Ambassador Partners'
     },
-	{
+    {
         link : '',
         id : 20,
         name : 'InsideIIM',
@@ -216,7 +368,7 @@ export default [
         color : '',
         type : 'Campus Ambassador Partners'
     },
-	{
+    {
         link : '',
         id : 20,
         name : 'Intern Theory',
@@ -224,7 +376,7 @@ export default [
         color : '',
         type : 'Campus Ambassador Partners'
     },
-	{
+    {
         link : '',
         id : 20,
         name : 'Todaysera',
@@ -246,6 +398,6 @@ export default [
         name : 'Million Lights',
         image : ca8,
         color : '',
-        type: 'Associate Sponsors'
+        type: 'Campus Ambassador Partners'
     }
 ]

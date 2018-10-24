@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ffcc3b-4670-45dd-aec2-6170b2cd894e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevelopersPage/members.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevelopersPage/members.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PECFEST.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PECFEST.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Bajaj Electricals.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Chandigarh X.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Coding_Ninjas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Comedy Central.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/GBP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/GNL.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Hawkeyed_phot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Major Changs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Pokermet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Prachi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Ralco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bestech.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/coca_cola.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/cs_cafe.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/eatstreet.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/fmpartner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/gsp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hero.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/honda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/jmk.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/manforce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/mercedes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/montecarlo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/naman.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/strands.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/taste battles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/tedge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/tsn_official_media.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/napp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/napp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/LetsShave.com.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/LetsShave.com.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sponsors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sponsors.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -60,7 +29,7 @@
       <file leaf-file-name="PECFEST.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
+            <state relative-caret-position="612">
               <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -72,8 +41,11 @@
       <file leaf-file-name="sponsors.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sponsors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="233">
+              <caret line="161" column="4" lean-forward="true" selection-start-line="161" selection-start-column="4" selection-end-line="161" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +53,8 @@
       <file leaf-file-name="napp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/napp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+            <state relative-caret-position="1343">
+              <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -193,7 +165,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,6 +185,12 @@
               <item name="pecfestFrontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="pecfestFrontend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pecfestFrontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pecfestFrontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pecfestFrontend" type="b2602c69:ProjectViewProjectNode" />
@@ -292,30 +270,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80347000" />
+    <option name="totallyTimeSpent" value="82163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1269002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1579643" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24643874" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3091168" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1269002" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24643874" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,9 +319,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DevelopersPage/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -656,7 +642,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PECFEST.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="612">
           <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -666,15 +652,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/napp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        <state relative-caret-position="1343">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/SC.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sponsors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        <state relative-caret-position="233">
+          <caret line="161" column="4" lean-forward="true" selection-start-line="161" selection-start-column="4" selection-end-line="161" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
