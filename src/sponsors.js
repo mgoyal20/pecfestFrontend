@@ -13,6 +13,8 @@ import assoc11 from './images/Netplus Broadband Logo Big Size.jpg';
 import assoc12 from './images/Zapbuild.JPG';
 import assoc13 from './images/Sparx Logo.jpg';
 import assoc14 from './images/tech brewery logo.png';
+import assoc15 from './images/01. Primary_White@10x.png';
+import assoc16 from './images/Pepsi.jpg';
 
 import ass1 from './images/JK cement ltd final logo.jpg';
 import ass2 from './images/verka.jpg';
@@ -29,8 +31,11 @@ import ass12 from './images/MTV.JPG';
 import ass13 from './images/Playground.JPG';
 import ass14 from './images/Swaraj.JPG';
 import ass15 from './images/SC.png';
+import ass16 from './images/gunsberg.png';
+import ass17 from './images/COY 8.PNG.png';
 
 import food1 from './images/Churiosity.jpeg';
+import food2 from './images/ikram.jpg';
 import food3 from './images/London Shakes.jpg';
 import food4 from './images/Prince Refreshments_Food Stall.jpg';
 import food5 from './images/BostonFries.png';
@@ -176,6 +181,22 @@ export default [
         color : '',
         type: 'Merchandise Partner'
     },
+    {
+        link : '',
+        id : 13,
+        name : 'Mood Indigo',
+        image : assoc15,
+        color : '',
+        type: 'Fest Association with'
+    },
+    {
+        link : '',
+        id : 14,
+        name : 'Pepsi',
+        image : assoc16,
+        color : '',
+        type: 'Beverage Partner'
+    },
 
     {
         link : '',
@@ -291,6 +312,22 @@ export default [
         color : '',
         type: 'Associate Sponsors'
     },
+    {
+        link : '',
+        id : 18,
+        name : 'Gunsberg',
+        image : ass16,
+        color : '',
+        type: 'Associate Sponsors'
+    },
+    {
+        link : '',
+        id : 18,
+        name : 'Colors of Youth',
+        image : ass17,
+        color : '',
+        type: 'Associate Sponsors'
+    },
 
 
     {
@@ -298,6 +335,14 @@ export default [
         id : 19,
         name : 'Churiosity',
         image : food1,
+        color : '',
+        type : 'Food Partners'
+    },
+    {
+        link : '',
+        id : 19,
+        name : 'Ikram Dhaba',
+        image : food2,
         color : '',
         type : 'Food Partners'
     },
