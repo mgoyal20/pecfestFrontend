@@ -11,7 +11,7 @@ export default [
         titleLine: 'Sukhwinder Singh Live',
         date: '28th October 2018',
         location: 'Main Stage',
-        coverPhoto: ss,
+        // coverPhoto: ss,
         isEvent: false,
         shouldSplit: true,
     },
