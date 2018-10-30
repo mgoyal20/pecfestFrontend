@@ -15,6 +15,7 @@ import assoc13 from './images/Sparx Logo.jpg';
 import assoc14 from './images/tech brewery logo.png';
 import assoc15 from './images/01. Primary_White@10x.png';
 import assoc16 from './images/Pepsi.jpg';
+import assoc17 from './images/Asset 4.png';
 
 import ass1 from './images/JK cement ltd final logo.jpg';
 import ass2 from './images/verka.jpg';
@@ -187,6 +188,14 @@ export default [
         id : 13,
         name : 'Mood Indigo',
         image : assoc15,
+        color : '',
+        type: 'Fest Association with'
+    },
+    {
+        link : '',
+        id : 13,
+        name : 'Techfest 2018',
+        image : assoc17,
         color : '',
         type: 'Fest Association with'
     },
