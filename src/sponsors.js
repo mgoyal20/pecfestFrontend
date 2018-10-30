@@ -33,6 +33,7 @@ import ass14 from './images/Swaraj.JPG';
 import ass15 from './images/SC.png';
 import ass16 from './images/gunsberg.png';
 import ass17 from './images/COY 8.PNG.png';
+import ass18 from './images/jatinimg.png';
 
 import food1 from './images/Churiosity.jpeg';
 import food2 from './images/ikram.jpg';
@@ -325,6 +326,14 @@ export default [
         id : 18,
         name : 'Colors of Youth',
         image : ass17,
+        color : '',
+        type: 'Associate Sponsors'
+    },
+    {
+        link : '',
+        id : 18,
+        name : 'Robosap Innovations Private Limited',
+        image : ass18,
         color : '',
         type: 'Associate Sponsors'
     },
